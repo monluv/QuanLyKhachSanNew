@@ -39,7 +39,7 @@ namespace QUANLYKHACHSAN2
 
         private void hươngDânToolStripMenuItem_Click(object sender, EventArgs e)
         {
-
+            Help.ShowHelp(this, System.IO.Path.Combine(Application.StartupPath, "huongdanks.htm"));
         }
     }
 }
