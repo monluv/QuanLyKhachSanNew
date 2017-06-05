@@ -25,3 +25,15 @@ C:\Users\Administrator\Documents\GitHub\QuanLyKhachSanNew\QUANLYKHACHSAN2\QUANLY
 C:\Users\Administrator\Documents\GitHub\QuanLyKhachSanNew\QUANLYKHACHSAN2\QUANLYKHACHSAN2\obj\Debug\QUANLYKHACHSAN2.frmqlphong.resources
 C:\Users\Administrator\Documents\GitHub\QuanLyKhachSanNew\QUANLYKHACHSAN2\QUANLYKHACHSAN2\obj\Debug\QUANLYKHACHSAN2.frmchothue.resources
 C:\Users\Administrator\Documents\GitHub\QuanLyKhachSanNew\QUANLYKHACHSAN2\QUANLYKHACHSAN2\obj\Debug\QUANLYKHACHSAN2.csproj.GenerateResource.Cache
+E:\github\QuanLyKhachSanNew\QUANLYKHACHSAN2\QUANLYKHACHSAN2\bin\Debug\QUANLYKHACHSAN2.exe.config
+E:\github\QuanLyKhachSanNew\QUANLYKHACHSAN2\QUANLYKHACHSAN2\obj\Debug\QUANLYKHACHSAN2.exe
+E:\github\QuanLyKhachSanNew\QUANLYKHACHSAN2\QUANLYKHACHSAN2\obj\Debug\QUANLYKHACHSAN2.pdb
+E:\github\QuanLyKhachSanNew\QUANLYKHACHSAN2\QUANLYKHACHSAN2\bin\Debug\QUANLYKHACHSAN2.exe
+E:\github\QuanLyKhachSanNew\QUANLYKHACHSAN2\QUANLYKHACHSAN2\bin\Debug\QUANLYKHACHSAN2.pdb
+E:\github\QuanLyKhachSanNew\QUANLYKHACHSAN2\QUANLYKHACHSAN2\obj\Debug\QUANLYKHACHSAN2.csprojResolveAssemblyReference.cache
+E:\github\QuanLyKhachSanNew\QUANLYKHACHSAN2\QUANLYKHACHSAN2\obj\Debug\QUANLYKHACHSAN2.Form1.resources
+E:\github\QuanLyKhachSanNew\QUANLYKHACHSAN2\QUANLYKHACHSAN2\obj\Debug\QUANLYKHACHSAN2.frmtraphong.resources
+E:\github\QuanLyKhachSanNew\QUANLYKHACHSAN2\QUANLYKHACHSAN2\obj\Debug\QUANLYKHACHSAN2.Properties.Resources.resources
+E:\github\QuanLyKhachSanNew\QUANLYKHACHSAN2\QUANLYKHACHSAN2\obj\Debug\QUANLYKHACHSAN2.frmqlphong.resources
+E:\github\QuanLyKhachSanNew\QUANLYKHACHSAN2\QUANLYKHACHSAN2\obj\Debug\QUANLYKHACHSAN2.frmchothue.resources
+E:\github\QuanLyKhachSanNew\QUANLYKHACHSAN2\QUANLYKHACHSAN2\obj\Debug\QUANLYKHACHSAN2.csproj.GenerateResource.Cache
